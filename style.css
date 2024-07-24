@@ -1,0 +1,51 @@
+.details{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.git{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.education{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.skills{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.career{
+    color: rgb(12, 204, 140);
+    background-color: black;
+}
+.project{
+    color: rgb(11, 239, 227); 
+    background-color: rgb(182, 147, 102);
+}
+.develop{
+    color: rgb(235, 15, 15);
+}
+.head1{
+    color: rgb(231, 19, 231);
+}
+.head2{
+    color: blueviolet;
+}
+.edu{
+    color: lightsalmon; 
+    background-color: aquamarine;
+}
+.tech{
+    color: lightcoral;
+}
+.soft{
+    color: rgb(10, 151, 240);
+}
+.intern{
+    color: brown; 
+    background-color: aquamarine;
+}
